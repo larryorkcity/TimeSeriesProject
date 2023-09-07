@@ -1,0 +1,6 @@
+
+Flask
+pymysql
+matplotlib
+pandas
+    
