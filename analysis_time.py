@@ -5,7 +5,7 @@ import pandas as pd
 
 from statsmodels.tsa.holtwinters import ExponentialSmoothing
 
-# Exponential Smoothing을 사용하여 누락된 값을 예측
+# Predicts missing values by using Exponential Smoothing
 def exponential_smoothing_forecast(series):
     """
     Predict uncaught data by 'Exponential Smoothing'.
